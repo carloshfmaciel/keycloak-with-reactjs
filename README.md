@@ -2,6 +2,9 @@
 
 Aqui temos um exemplo rodando KeyCloak e integrando com uma aplicação reactjs que utiliza uma biblioteca chamada "keycloak-js" que orquestra o processo de login com o keycloak.
 
+### Fonte
+https://medium.hexadefence.com/securing-a-react-app-using-keycloak-ac0ee5dd4bfc
+
 ## Dependências
 - Docker e Docker compose
 - NodeJs
